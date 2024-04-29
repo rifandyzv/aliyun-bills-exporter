@@ -1,0 +1,9 @@
+/__pycache__
+/json/
+/output/
+/venv/
+*.csv
+*.json
+test.ipynb
+test.py
+.env
